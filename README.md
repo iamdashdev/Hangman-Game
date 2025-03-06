@@ -13,7 +13,7 @@ A simple **Hangman** game built using **HTML, CSS, and JavaScript**. Try to gues
 ![Hangman Game Screenshot](hangman.png) 
 
 ## 🎮 Demo
-[Live Demo](https://your-live-demo-link.com) *(Replace with your actual live demo link)*
+[Live Demo](https://your-live-demo-link.com) 
 
 ## 🛠️ Installation
 1. **Clone the repository**
