@@ -54,7 +54,7 @@ Contributions are welcome! Feel free to fork the project and submit a pull reque
 
 ## ⭐ Acknowledgments
 - Inspired by classic Hangman games
-- Thanks to OpenAI's ChatGPT for helping structure this README
+
 
 ---
 Made with ❤️ by [Polly Mwangi](https://github.com/iamdashdev)
